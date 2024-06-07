@@ -1,4 +1,4 @@
-# Django-React-REMS
+# Real Estate Management System in Django
 
 1.clone this repository using:
 
