@@ -1,4 +1,4 @@
-# Django-React-REMS
+# Real Estate Management System in Django
 
 Key Features:
 Property Listing and Search: The system allows property owners and agents to list their properties, including detailed information, images, and amenities. Potential buyers can easily search and filter through the listings to find properties that meet their requirements.
