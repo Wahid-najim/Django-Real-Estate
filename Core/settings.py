@@ -91,6 +91,7 @@ WSGI_APPLICATION = 'Core.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 DATABASES = {
+    #defaults
     "default": {
         "ENGINE": os.getenv("db_engine"),
         "NAME": os.getenv("db_name"),
