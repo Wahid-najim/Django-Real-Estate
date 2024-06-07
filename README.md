@@ -14,15 +14,17 @@
 
 	`pip install -r requirements.txt`
 
-4.Migrate the database
+4.Create a .env file to store your environment variables and add relevant info.
+
+5.Migrate the database
 
 	`python manage.py migrate`
 
-5.Create a superuser to access the Django admin:
+6.Create a superuser to access the Django admin:
 
 	'python manage.py createsuperuser`
 
-6.Run the development server:
+7.Run the development server:
 
 	`python manage.py runserver`
 
