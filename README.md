@@ -1,21 +1,17 @@
 # Real Estate Management System in Django
 
-Key Features:
-Property Listing and Search: The system allows property owners and agents to list their properties, including detailed information, images, and amenities. Potential buyers can easily search and filter through the listings to find properties that meet their requirements.
+## Key Features:
+1.Property Listing and Search: The system allows property owners and agents to list their properties, including detailed information, images, and amenities. Potential buyers can easily search and filter through the listings to find properties that meet their requirements.
 
-User Accounts and Authentication: Users can create accounts and log in to access personalized features, ensuring a tailored experience for each user category.
+2.User Accounts and Authentication: Users can create accounts and log in to access personalized features, ensuring a tailored experience for each user category.
 
-Property Management: Property owners and agents can efficiently manage their properties through the system. They can update property details, availability status, and track inquiries.
+3.Property Management: Property owners and agents can efficiently manage their properties through the system. They can update property details, availability status, and track inquiries.
 
-Property Analytics: The system provides valuable data analytics and insights, helping users make informed decisions related to real estate investments and transactions.
+4.Property Analytics: The system provides valuable data analytics and insights, helping users make informed decisions related to real estate investments and transactions.
 
-Real-Time Communication: The platform facilitates real-time communication between property owners, agents, and potential buyers, improving collaboration and responsiveness.
+5.Real-Time Communication: The platform facilitates real-time communication between property owners, agents, and potential buyers, improving collaboration and responsiveness.
 
-Booking and Appointments: For rental properties, the system handles appointment scheduling and booking, streamlining the process for both tenants and property owners.
-
-Payment Integration: Secure payment integration allows users to make transactions directly through the platform, ensuring a seamless and safe payment experience.
-
-Reporting and Notifications: Users receive timely notifications on property updates, new listings, and appointment confirmations. Property owners and agents can generate reports for performance analysis.
+6.Booking and Appointments: For rental properties, the system handles appointment scheduling and booking, streamlining the process for both tenants and property owners.
 
 ## Installation Guide
 1.clone this repository using:
