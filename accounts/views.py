@@ -5,7 +5,7 @@ from django.contrib.auth.models import Group
 from django.contrib import messages
 from django.contrib.auth.forms import AuthenticationForm
 from django.contrib.auth import authenticate, login, logout
-from tenantManager.models import Tenant
+from TenantMngt.models import Tenant
 
 def index(request):
     listings = Listing.objects.order_by('-views')
