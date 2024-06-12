@@ -95,8 +95,9 @@ DATABASES = {
     "default": {
         "ENGINE": os.getenv("db_engine"),
         "NAME": os.getenv("db_name"),
-        "HOST": os.getenv("db_host"),
         "USER": os.getenv("db_user"),
+        "HOST": "mysql_db_one",
+        "HOST": os.getenv("db_host"),
         "PASSWORD": os.getenv("db_password"),
         "PORT": os.getenv("db_port"),
     },

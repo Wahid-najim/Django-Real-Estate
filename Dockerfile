@@ -11,3 +11,10 @@ RUN apt-get update && apt-get install -y gdal-bin
 
 COPY . /backend/
 
+EXPOSE 8000
+
+ADD start.sh /start.sh
+
+RUN chmod a+x /start.sh
+
+ENTRYPOINT ["/start.sh" ]
